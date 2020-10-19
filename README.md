@@ -1,5 +1,4 @@
-# TP_No_Supervisado
-##Grupo 17, Comision 2
+# TP_No_Supervisado. Grupo 17, Comision 2
 
 Utilizar la base de jugadores “players_20.csv” disponible en la página de Kaggle https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset?select=players_20.csv . Considerar que la base 2020 no tiene el mismo formato que la base vista en clase, a los nombres de las variables se les agregó una keyword para identificar a qué tipo de habilidad corresponde.
 
